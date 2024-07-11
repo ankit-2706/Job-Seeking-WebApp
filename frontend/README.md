@@ -1,1 +1,3 @@
-This is a Amazing Mern Stack real world Job Seeking Web-Application, build using various techstack such as Reactjs, Expressjs, Mongodb etc. 
+# REACT+VITE | frontend
+
+This is the frontend part which is mainly build using React and CSS is used for styling web pages.
