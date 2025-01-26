@@ -48,8 +48,6 @@ The Job-Seeking WebApp is designed to cater to the needs of both employers and j
 ![viewJob](https://github.com/user-attachments/assets/7273f50e-fbd3-4b6b-b0e1-0e2a5524093f)
 ## Available Jobs
 ![AvailableJob](https://github.com/user-attachments/assets/bdc9e0a7-7057-4bb6-94f1-056894aa14cd)
-## Job Details
-![jobDetails](https://github.com/user-attachments/assets/586bcc9d-abca-4d54-8884-2fa00999d123)
 ## Apply for Job
 ![ApplicationForm](https://github.com/user-attachments/assets/44e86228-bc9c-4c9c-8eb7-22643265cf7e)
 ![Application2](https://github.com/user-attachments/assets/131693cc-0c8d-40e1-aff9-fd451640c250)
