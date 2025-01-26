@@ -33,14 +33,5 @@ The Job-Seeking WebApp is designed to cater to the needs of both employers and j
 
 ---
 
-## Setup Instructions
 
-### Prerequisites:
-- Node.js
-- MongoDB
-
-### Steps to Run Locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Job-Seeking-WebApp.git
 
