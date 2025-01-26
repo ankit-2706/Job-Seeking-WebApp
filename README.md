@@ -33,5 +33,9 @@ The Job-Seeking WebApp is designed to cater to the needs of both employers and j
 
 ---
 
+## **SnapShots**
+
+
+
 
 
