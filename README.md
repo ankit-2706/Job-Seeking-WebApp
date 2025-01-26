@@ -36,9 +36,9 @@ The Job-Seeking WebApp is designed to cater to the needs of both employers and j
 ## **SnapShots**
 
 ## Register
-![2](https://github.com/user-attachments/assets/6e1a328b-bead-4b9c-8bf4-3047336433c9)
+![image](https://github.com/user-attachments/assets/e0e323fc-3e4d-4e47-8c37-36b4d8c401a7)
 ## Login
-![1](https://github.com/user-attachments/assets/aa61d710-1db5-4cf7-bf36-057e6480fb54)
+![image](https://github.com/user-attachments/assets/01c50310-e8f1-4f2e-93c5-d3b27a3259f9)
 ## HomePage
 ![home](https://github.com/user-attachments/assets/bfcaba95-64e0-4b62-ba0f-7df9a2c8f36e)
 ## Create Job
