@@ -34,6 +34,35 @@ The Job-Seeking WebApp is designed to cater to the needs of both employers and j
 ---
 
 ## **SnapShots**
+---
+## Register
+![2](https://github.com/user-attachments/assets/6e1a328b-bead-4b9c-8bf4-3047336433c9)
+## Login
+![1](https://github.com/user-attachments/assets/aa61d710-1db5-4cf7-bf36-057e6480fb54)
+## HomePage
+![home](https://github.com/user-attachments/assets/bfcaba95-64e0-4b62-ba0f-7df9a2c8f36e)
+## Create Job
+![postJob](https://github.com/user-attachments/assets/f3b1e04b-f50c-4290-b4ec-08455ff9bf06)
+![postjob2](https://github.com/user-attachments/assets/0f23f51b-9aef-43a1-98e1-5b23b55de78f)
+## View Job
+![viewJob](https://github.com/user-attachments/assets/7273f50e-fbd3-4b6b-b0e1-0e2a5524093f)
+## Available Jobs
+![home](https://github.com/user-attachments/assets/761f1b9c-8342-40e2-bf7f-89e1b4a2f8c9)
+## Job Details
+![jobDetails](https://github.com/user-attachments/assets/586bcc9d-abca-4d54-8884-2fa00999d123)
+## Apply for Job
+![ApplicationForm](https://github.com/user-attachments/assets/44e86228-bc9c-4c9c-8eb7-22643265cf7e)
+![Application2](https://github.com/user-attachments/assets/131693cc-0c8d-40e1-aff9-fd451640c250)
+
+
+
+
+
+
+
+
+
+
 
 
 
